@@ -2,7 +2,7 @@
 ## A Comparison of Satellite-Derived LST and Spectral Indices with High-Resolution Thermal Data in Klagenfurt
 ### Analysis & Modelling
 
-This repository contains the **R project**, **R scripts**, and **resulting visualizations** (JPEG format) from the *Urban Heat Island (UHI) analysis for Klagenfurt*. 
+This repository contains the **R project**, **R scripts**, and **resulting visualizations** (PNG format) from the *Urban Heat Island (UHI) analysis for Klagenfurt*. 
 
 ## Data Sources
 
