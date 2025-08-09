@@ -1,10 +1,10 @@
 # UHI Analysis – Klagenfurt
-##Biophysical Parameters for Urban Heat Island Analysis
+## Biophysical Parameters for Urban Heat Island Analysis
 
-###A Comparison of Satellite-Derived LST and Spectral Indices with High-Resolution Thermal Data in Klagenfurt
+### A Comparison of Satellite-Derived LST and Spectral Indices with High-Resolution Thermal Data in Klagenfurt
 
 
-###Analysis & Modelling
+### Analysis & Modelling
 
 This repository contains the **R project**, **R scripts**, and **resulting visualizations** (JPEG format) from the *Urban Heat Island (UHI) analysis for Klagenfurt*. 
 
